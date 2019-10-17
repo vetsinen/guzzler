@@ -1,0 +1,13 @@
+{
+    "name": "godzevich.v/php01",
+    "type": "project",
+    "authors": [
+        {
+            "name": "veitsi",
+            "email": "vetsinen@yopmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
