@@ -1,0 +1,67 @@
+object(GuzzleHttp\Psr7\Response)#27 (6) {
+  ["reasonPhrase":"GuzzleHttp\Psr7\Response":private]=>
+  string(2) "OK"
+  ["statusCode":"GuzzleHttp\Psr7\Response":private]=>
+  int(200)
+  ["headers":"GuzzleHttp\Psr7\Response":private]=>
+  array(5) {
+    ["Host"]=>
+    array(1) {
+      [0]=>
+      string(14) "localhost:8001"
+    }
+    ["Date"]=>
+    array(1) {
+      [0]=>
+      string(29) "Fri, 18 Oct 2019 07:37:19 GMT"
+    }
+    ["Connection"]=>
+    array(1) {
+      [0]=>
+      string(5) "close"
+    }
+    ["Content-Type"]=>
+    array(1) {
+      [0]=>
+      string(24) "text/html; charset=UTF-8"
+    }
+    ["Content-Length"]=>
+    array(1) {
+      [0]=>
+      string(3) "357"
+    }
+  }
+  ["headerNames":"GuzzleHttp\Psr7\Response":private]=>
+  array(5) {
+    ["host"]=>
+    string(4) "Host"
+    ["date"]=>
+    string(4) "Date"
+    ["connection"]=>
+    string(10) "Connection"
+    ["content-type"]=>
+    string(12) "Content-Type"
+    ["content-length"]=>
+    string(14) "Content-Length"
+  }
+  ["protocol":"GuzzleHttp\Psr7\Response":private]=>
+  string(3) "1.1"
+  ["stream":"GuzzleHttp\Psr7\Response":private]=>
+  object(GuzzleHttp\Psr7\Stream)#25 (7) {
+    ["stream":"GuzzleHttp\Psr7\Stream":private]=>
+    resource(43) of type (stream)
+    ["size":"GuzzleHttp\Psr7\Stream":private]=>
+    NULL
+    ["seekable":"GuzzleHttp\Psr7\Stream":private]=>
+    bool(true)
+    ["readable":"GuzzleHttp\Psr7\Stream":private]=>
+    bool(true)
+    ["writable":"GuzzleHttp\Psr7\Stream":private]=>
+    bool(true)
+    ["uri":"GuzzleHttp\Psr7\Stream":private]=>
+    string(10) "php://temp"
+    ["customMetadata":"GuzzleHttp\Psr7\Stream":private]=>
+    array(0) {
+    }
+  }
+}

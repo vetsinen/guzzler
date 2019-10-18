@@ -1,0 +1,27 @@
+GET http://localhost:8001
+
+### yml address
+GET https://drive.google.com/file/d/1u-5GPsXl7zBiQvXTZTuFtnYUqsU8ifHs/view
+
+### xml address
+GET https://www.w3schools.com/xml/note.xml
+
+### another xml
+GET http://www.chilkatsoft.com/xml-samples/bookstore.xml
+
+### Get request with a header
+GET https://httpbin.org/ip
+Accept: application/json
+
+### image
+GET https://pre-prod.boo.ua/upload/iblock/819/8193415a9dc98d89588bd30e9a46320a.jpg
+
+# For a quick start check out our HTTP Requests collection (Tools|HTTP Client|Open HTTP Requests Collection) or
+# paste cURL into the file and request will be converted to HTTP Request format.
+#
+# Following HTTP Request Live Templates are available:
+# * 'gtrp' and 'gtr' create a GET request with or without query parameters;
+# * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
+# * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
+
+###
